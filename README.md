@@ -10,6 +10,7 @@ Digital Technology & Management degree at OTH Amberg-Weiden.
 **MQTT Publisher** - Publishes simulated energy data (watts, voltage) 
   to HiveMQ broker every 5 seconds using JSON payloads. 
   Foundation for the smart energy tracker project.
+  
 ![MQTT Explorer showing live data](screenshots/MQTT_explorer_reading.png)
 
 ## Tech Stack
